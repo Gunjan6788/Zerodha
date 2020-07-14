@@ -1,0 +1,32 @@
+img{
+    width:130px
+}
+
+span{
+    color:#424242;
+    text-decoration-line: none;
+    padding-right:50px ;
+}
+span:hover{
+    color:blue
+}
+
+.logo{
+    width:160px
+}
+
+.footer{
+    color: '#454545'
+}
+.footer ~ p{
+    color: grey;
+    font-weight: bold;
+}
+.footer ~ p:hover{
+    color:blue
+}
+
+.social{
+    height:20px;
+    width:20px
+}
